@@ -1,0 +1,108 @@
+
+
+so you are wanting to develop large systeam by our team
+
+- design
+https://projects.invisionapp.com/share/CTRKXICD8VX#/screens
+https://app.zeplin.io/project/5cb8af006519cb0972078a6b/screen/5cb8af1dd45217116646bec3
+
+
+
+- Admin
+http://laundrhouz.com/laundrhouz/public/login
+test@gmail.com
+123456
+
+- app testing account
+9586268064
+1234
+
++919586268064
+1234
+
+
+1. app design
+2. web site design
+3. iOS development using siwft
+4. android development using android studio
+5. web site development using react.js and vue.js
+6. admin, backend, db development using node.js, mongodb
+7. server hosting with new domain
+8. uploading to appstore and google play store
+
+detail
+1. multi language
+Mandarin
+Korean
+Spanish
+Farsi
+French
+Veitnamese
+Philippine
+
+Similar to Laundrapp
+app name: MYcleanbag.com
+mobile app for customers only and admin portal(web dash board)
+
+- Image of Items Dry clean
+- IT WILL BE FIRST - IMAGE- ITEM DESCRIPTION
+- DROP DOWN MENU FOR NUMBER OF PCS- THEN DELIVERY OPTION DROP DOWN MENU- TOTAL - ADD TO CART.
+- We will separate the tabs by category
+- Tops, Bottom, Dress, Sets, Home Care, Laundry plans- Every section has its own frequently asked question
+* Dress shirts- Regular button , Snap button-
+* Tees
+* dresses - casual + formal
+* Pants
+* Shorts
+* Skirts
+* Underwear
+* Suit Jackets
+* A two- piece st with Shirt best Value
+* Tuxedo
+* Sport Jackets
+* Gloves
+* Chef/ Lab coat
+* Heavy coat
+* Hat
+* Jeans
+* Jumpsuit
+* Light coat
+* Polo Shirts
+* Robe-
+* Scarf/Shawl
+* Tie
+* Vest
+
+- Laundry - Wash / fold- $1.49/lbs
+- Laundry plan- for Apparel only
+* The Pond- 25 lbs/ month- $35.00
+* The Lake - 50 lbs / month- $67.50
+* The River- 100 lbs/ month- $130.00
+* The Ocean- 150 lbs/month - $160.00
+- Laundry Plans for Ironing
+- Home
+* Bath Mat
+* Bed sheet
+* Blanket
+* comforter
+* duvet covers
+* rugs
+* napkins
+* Pillow cases
+* Table cloth
+* Towel
+* Bed Set
+- Referral coupon generation
+- Tracking the Driver.
+- Be able to scan the garment thru phone so we know its ready for pick up.
+- it’s only first time the customer will have to put all the information about garment regarding fabric composition. Once it comes to our laundry we will put in a barcode. Then for the next time it will be easier for customer just to scan the barcode.
+- Notifications to customer before arrival and drop off to the customer.
+
+- multi language
+* Mandarin
+* Korean
+* Spanish
+* Farsi
+* French
+* Italian
+* German
